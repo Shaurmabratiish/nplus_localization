@@ -28,6 +28,7 @@ access_world_game_off: "<gray>Выключено</gray>"
 creative_world_info: "<white>{name}\n<gray>{lore}"
 
 player_listener_title: "События игрока"
+player_editor_example: "<white>\n <green><head:{headName}> {name}"
 
 gui:
   game_access: "<white></white>\n<green> Доступ к игре</green>\n<dark_gray> Настройка</dark_gray>\n\n<gray> Настраивает доступ к игре, который </gray>\n<gray> может быть включен, либо же выключен   </gray>\n\n<aqua> Варианты: </aqua>"
