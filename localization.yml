@@ -1,0 +1,33 @@
+welcome_message: "Привет"
+
+create_world_icon: "<white>\n<yellow> Создать Мир\n<dark_gray> Миры\n\n<gray> Вы можете создать\n<gray> ваш собственный мир!\n\n<yellow> Нажмите, чтобы создать   \n<white>"
+
+join_world_icon: "<white>\n<gold> {name}\n<dark_gray> Мир\n\n<gray>{lore}<white> Автор <yellow>{author}\n<white> Лайков <yellow>{likes}\n<white> Категории: <gray>{categories}\n\n<dark_gray> ID: {id}\n<white>"
+worlds_title: "Миры"
+plot_title: "Настройки плота"
+world_categories_title: "Категории"
+
+world_category_description: "<dark_gray> Категория\n\n<gray> Категория, которая может быть\n<gray> установлена на ваш мир\n<white>"
+
+world_category_arcade: "Аркада"
+world_category_confrontation: "Противостояния"
+world_category_battles: "Битвы"
+world_category_parkour: "Паркур"
+world_category_adventure: "Приключение"
+world_category_roleplay: "Ролеплей (кал)"
+world_category_strategy: "Стратегия"
+world_category_puzzle: "Головоломка"
+world_category_resources: "Ресурсы"
+world_category_eliminations: "Устранения"
+world_category_creation: "Творчество"
+world_category_other: "Другое"
+
+access_world_game_on: "<gray>Включено</gray>"
+access_world_game_off: "<gray>Выключено</gray>"
+
+creative_world_info: "<white>{name}\n<gray>{lore}"
+
+player_listener_title: "События игрока"
+
+gui:
+  game_access: "<white></white>\n<green> Доступ к игре</green>\n<dark_gray> Настройка</dark_gray>\n\n<gray> Настраивает доступ к игре, который </gray>\n<gray> может быть включен, либо же выключен   </gray>\n\n<aqua> Варианты: </aqua>"
