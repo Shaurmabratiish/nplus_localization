@@ -1,4 +1,4 @@
-welcome_message: "Пока"
+welcome_message: "привет"
 
 create_world_icon: "<white>\n<yellow> Создать Мир\n<dark_gray> Миры\n\n<gray> Вы можете создать\n<gray> ваш собственный мир!\n\n<yellow> Нажмите, чтобы создать   \n<white>"
 
