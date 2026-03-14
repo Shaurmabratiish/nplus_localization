@@ -3,7 +3,7 @@ welcome_message: "привет"
 create_world_icon: "<white>\n<yellow> Создать Мир\n<dark_gray> Миры\n\n<gray> Вы можете создать\n<gray> ваш собственный мир!\n\n<yellow> Нажмите, чтобы создать   \n<white>"
 
 join_world_icon: "<white>\n<gold> {name}\n<dark_gray> Мир\n\n<gray>{lore}<white> Автор <yellow>{author}\n<white> Лайков <yellow>{likes}\n<white> Категории: <gray>{categories}\n\n<dark_gray> ID: {id}\n<white>"
-worlds_title: "non2"
+worlds_title: "ти лох полный без ключей"
 plot_title: "Настройки плота"
 world_categories_title: "Категории"
 
