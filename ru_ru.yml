@@ -30,27 +30,27 @@ creative_world_info: "<white>{name}\n<gray>{lore}"
 player_listener_title: "События игрока"
 player_editor_example: "<white>\n <white><head:{headName}> <green>{name}\n<dark_gray> Игрок\n\n<gray>  Доступ к билду: {build}\n<gray>  Доступ к коду: {dev}\n<gray>  Доступ к белому списку: {whitelist}\n\n<green> Нажмите, чтобы изменить права   \n<white>"
 
-creative_plus.argument.text.name: Текст
-creative_plus.argument.text.description: Значение, используемое для указания текстовых аргументов.
-creative_plus.argument.text.parsing_type: Тип:
-creative_plus.argument.text.raw_view: Исходный вид:
-creative_plus.argument.text.parsing_type.plain: Обычный
-creative_plus.argument.text.parsing_type.legacy: Цветной
-creative_plus.argument.text.parsing_type.minimessage: Стилизуемый
-creative_plus.argument.text.parsing_type.json: JSON
-creative_plus.argument.number.name: Число
-creative_plus.argument.number.description: Значение, используемое для указания числовых аргументов.
-creative_plus.argument.item.name: Предмет
-creative_plus.argument.location.name: Местоположение
-creative_plus.argument.location.description: Значение, используемое для указания аргументов типа местоположение.
-creative_plus.argument.vector.name: Вектор
-creative_plus.argument.vector.description: Значение, используемое для указания аргументов типа вектор.
-creative_plus.argument.potion.name: Зелье
-creative_plus.argument.potion.description: Значение, используемое для указания аргументов типа зелье.
-creative_plus.argument.sound.name: Звук
-creative_plus.argument.sound.description: Значение, используемое для указания аргументов типа звук.
-creative_plus.argument.particle.name: Эффект частиц
-creative_plus.argument.particle.description: Значение, используемое для указания аргументов типа частица.
+creative_plus.argument.text.name: "Текст"
+creative_plus.argument.text.description: "Значение, используемое для указания текстовых аргументов."
+creative_plus.argument.text.parsing_type: "Тип:"
+creative_plus.argument.text.raw_view: "Исходный вид:"
+creative_plus.argument.text.parsing_type.plain: "Обычный"
+creative_plus.argument.text.parsing_type.legacy: "Цветной"
+creative_plus.argument.text.parsing_type.minimessage: "Стилизуемый"
+creative_plus.argument.text.parsing_type.json: "JSON"
+creative_plus.argument.number.name: "Число"
+creative_plus.argument.number.description: "Значение, используемое для указания числовых аргументов."
+creative_plus.argument.item.name: "Предмет"
+creative_plus.argument.location.name: "Местоположение"
+creative_plus.argument.location.description: "Значение, используемое для указания аргументов типа местоположение."
+creative_plus.argument.vector.name: "Вектор"
+creative_plus.argument.vector.description: "Значение, используемое для указания аргументов типа вектор."
+creative_plus.argument.potion.name: "Зелье"
+creative_plus.argument.potion.description: "Значение, используемое для указания аргументов типа зелье."
+creative_plus.argument.sound.name: "Звук"
+creative_plus.argument.sound.description: "Значение, используемое для указания аргументов типа звук."
+creative_plus.argument.particle.name: "Эффект частиц"
+creative_plus.argument.particle.description: "Значение, используемое для указания аргументов типа частица."
 
 gui:
   game_access: "<white></white>\n<green> Доступ к игре</green>\n<dark_gray> Настройка</dark_gray>\n\n<gray> Настраивает доступ к игре, который </gray>\n<gray> может быть включен, либо же выключен   </gray>\n\n<aqua> Варианты: </aqua>"
